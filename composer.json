@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Kay Zin Htet",
+        "email": "21026584@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
